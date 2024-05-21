@@ -1,6 +1,3 @@
-
 export default function DashboardView() {
-  return (
-    <div>DashboardView</div>
-  )
+  return <div>DashboardView</div>;
 }
